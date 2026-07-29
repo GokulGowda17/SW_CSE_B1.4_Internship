@@ -1,5 +1,10 @@
+import {HelloWorld  } from"./components/HelloWorld";
 function App() {
-  return 
+  return (
+    <div>
+      <HelloWorld />
+    </div>
+  )
 
 }
 export default App
